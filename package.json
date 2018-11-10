@@ -1,6 +1,6 @@
 {
   "name": "callbag-defer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag which creates a source from a given factory when sink subscribes.",
   "main": "./dist/callbag-defer.cjs.js",
   "module": "./dist/callbag-defer.esm.js",
