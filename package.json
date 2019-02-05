@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "callbag-flatten": "^1.2.0",
-    "callbag-lazy": "^2.0.0"
+    "callbag-lazy": "^2.0.1"
   }
 }
